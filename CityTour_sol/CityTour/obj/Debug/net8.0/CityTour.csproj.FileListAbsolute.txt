@@ -1,0 +1,11 @@
+C:\Users\Cristian\Downloads\CityTour_sol\CityTour\bin\Debug\net8.0\CityTour.deps.json
+C:\Users\Cristian\Downloads\CityTour_sol\CityTour\bin\Debug\net8.0\CityTour.dll
+C:\Users\Cristian\Downloads\CityTour_sol\CityTour\bin\Debug\net8.0\CityTour.pdb
+C:\Users\Cristian\Downloads\CityTour_sol\CityTour\obj\Debug\net8.0\CityTour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristian\Downloads\CityTour_sol\CityTour\obj\Debug\net8.0\CityTour.AssemblyInfoInputs.cache
+C:\Users\Cristian\Downloads\CityTour_sol\CityTour\obj\Debug\net8.0\CityTour.AssemblyInfo.cs
+C:\Users\Cristian\Downloads\CityTour_sol\CityTour\obj\Debug\net8.0\CityTour.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\Downloads\CityTour_sol\CityTour\obj\Debug\net8.0\CityTour.dll
+C:\Users\Cristian\Downloads\CityTour_sol\CityTour\obj\Debug\net8.0\refint\CityTour.dll
+C:\Users\Cristian\Downloads\CityTour_sol\CityTour\obj\Debug\net8.0\CityTour.pdb
+C:\Users\Cristian\Downloads\CityTour_sol\CityTour\obj\Debug\net8.0\ref\CityTour.dll
